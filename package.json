@@ -4,6 +4,9 @@
   "description": "",
   "http.proxySupport": "on",
   "main": "index.js",
+  "engines": {
+    "node": ">=16.9"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
